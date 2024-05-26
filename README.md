@@ -1,5 +1,5 @@
-<h1 align="center">Здравствуйте, меня зовут <a href="https://vk.com/e.klyukman" target="_blank">Евгений Клюкман</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">Здравствуйте, меня зовут <a href="https://vk.com/e.klyukman" target="_blank">Евгений Клюкман</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h3 align="center">Я Golang-разработчик</h3>
 <!-- Первая строка иллюстраций технологий -->
 <h3 align="center"><img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" height="47"/><!--Голанг-->
