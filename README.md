@@ -33,10 +33,14 @@
 
 По ряду областей IT есть просадки знаний и умений, я это понимаю, и если не владею конкретной технологией - то приблизительно вижу, что полезно сделать для решения задачи. Осознаю пользу стандартной документации Golang; регулярно читаю новостные ТГ-каналы и Хабр в части тенденций программирования и IT.
 
-Если вы IT-рекрутер и вам подходит мой опыт, <a href="https://t.me/EvKly" target="_blank"> буду рад пообщаться</a> и выполнить тестовое задание.
+Если вы IT-рекрутер и вам подходит мой опыт, буду рад пообщаться и выполнить тестовое задание.<br>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EvKly)<br>
 Если вы пришли из моего блога <a href="https://dzen.ru/go_" target="_blank">Я, Golang-инженер</a> или просто собрат по оружию - добавляйтесь <a href="https://t.me/+ZGac_D1V4wFjYzRi" target="_blank">в ТГ-канал "Я, Golang-инженер"</a>: создадим комфортное пространство для общения единомышленников. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedyEvgeny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
