@@ -35,7 +35,7 @@
 
 Если вы IT-рекрутер и вам подходит мой опыт, буду рад пообщаться и выполнить тестовое задание.<br>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EvKly)<br>
-Если вы пришли из моего блога <a href="https://dzen.ru/go_" target="_blank">Я, Golang-инженер</a> или просто собрат по оружию - добавляйтесь <a href="https://t.me/+ZGac_D1V4wFjYzRi" target="_blank">в ТГ-канал "Я, Golang-инженер"</a>: создадим комфортное пространство для общения единомышленников. 
+Если вы пришли из блога <a href="https://dzen.ru/go_" target="_blank">Я, Golang-инженер</a> или просто собрат по оружию - добавляйтесь <a href="https://t.me/+ZGac_D1V4wFjYzRi" target="_blank">в ТГ-канал "Я, Golang-инженер"</a>: создадим комфортное пространство для общения единомышленников. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedyEvgeny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
