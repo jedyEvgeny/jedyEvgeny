@@ -11,12 +11,14 @@
 <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" height="47"/><!-- Докер -->
 <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" height="47"/><!-- CI/CD -->
 <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" height="47"/><!-- Баш -->
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" height="47"/></h3> <!-- SQLite -->
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" height="47"/> <!-- SQLite -->
+<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="47"/></h3> <!-- PostgreSQL -->
 <!-- Вторая строка иллюстраций технологий -->
 <h3 align="center"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="35"/><!-- VSC -->
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="35"/><!-- HTML -->
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="35"/><!-- HTML -->
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png?f=webp&w=256" height="35"/></h3><!-- Postman -->
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png?f=webp&w=256" height="35"/><!-- Postman -->
+<img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" height="35"/></h3><!-- Postman -->
 
 Пишу программное обеспечение для web-сайтов на стороне сервера. Помогаю делать так, чтобы сайты не падали и в них появлялся новый функционал; а также облегчаю понимание существующего ПО для других программистов - за счёт этого сокращается срок внедрения новых фич и время на раскачку для нового программиста, привлекаемого к работе над общим проектом.
 
